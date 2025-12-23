@@ -30,8 +30,7 @@
         </h1>
 
         <p class="text-2xl md:text-3xl mb-4 font-light">
-          <span class="font-semibold text-blue-200">楽</span
-          >ラクなエクセル、ラクセル
+          ラクなエクセル、ラクセル
         </p>
 
         <div id="download">
